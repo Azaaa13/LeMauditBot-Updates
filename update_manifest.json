@@ -1,6 +1,6 @@
 {
-  "version": "v1.4",
-  "url": "https://github.com/Azaaa13/LeMauditBot-Updates/releases/download/v1.4/LeMauditBot.exe",
-  "sha256": "0CA0C51FFAF316DEEE9B1AD20AF89292D686D3D98CD9AF78F67138D95A4319D7",
-  "notes": "LeMaudit Bot v1.4 adds multilingual support, improved Auto Sell, diagnostic previews and stability fixes."
+  "version": "v1.5.5",
+  "url": "https://github.com/Azaaa13/LeMauditBot-Updates/releases/download/v1.5.5/LeMauditBot.exe",
+  "sha256": "9390355BB6167F03EA6AC9967CA6E2C972787261E18C82E2DE6C80FCE1799362",
+  "notes": "Changes since v1.3:\n• Faster Target by Name with adjustable scanning speed\n• Fewer background capture conflicts and general capture optimization\n• Optional experimental background capture when the game is behind another window\n• Automatic fallback to the current capture system if the experimental mode fails\n• General bug fixes and stability improvements"
 }
