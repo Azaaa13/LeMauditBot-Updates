@@ -1,6 +1,6 @@
 {
-  "version": "v1.5.5",
-  "url": "https://github.com/Azaaa13/LeMauditBot-Updates/releases/download/v1.5.5/LeMauditBot.exe",
-  "sha256": "9390355BB6167F03EA6AC9967CA6E2C972787261E18C82E2DE6C80FCE1799362",
-  "notes": "Changes since v1.3:\n• Faster Target by Name with adjustable scanning speed\n• Fewer background capture conflicts and general capture optimization\n• Optional experimental background capture when the game is behind another window\n• Automatic fallback to the current capture system if the experimental mode fails\n• General bug fixes and stability improvements"
+  "version": "v1.5.7",
+  "url": "https://github.com/Azaaa13/LeMauditBot-Updates/releases/download/v1.5.7/LeMauditBot_v1.5.7.exe",
+  "sha256": "0BBC329F7B83E7CB0EB1F36F7860D976026697A960F7AD076BA9484E3C6A0091",
+  "notes": "Fixes incorrect license expiration warnings, preserves valid licenses during temporary connection errors and improves Auto Ignition cooldown handling."
 }
