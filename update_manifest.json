@@ -1,6 +1,6 @@
 {
-  "version": "v1.5.7",
-  "url": "https://github.com/Azaaa13/LeMauditBot-Updates/releases/download/v1.5.7/LeMauditBot_v1.5.7.exe",
-  "sha256": "0BBC329F7B83E7CB0EB1F36F7860D976026697A960F7AD076BA9484E3C6A0091",
-  "notes": "Fixes incorrect license expiration warnings, preserves valid licenses during temporary connection errors and improves Auto Ignition cooldown handling."
+  "version": "v1.6",
+  "url": "https://github.com/Azaaa13/LeMauditBot-Updates/releases/download/v1.6/LeMauditBot.exe",
+  "sha256": "6620329A73367136238B52BDA5C0687ACAD7444E1827B81E7E65B97582F57664",
+  "notes": "LeMaudit Bot v1.6 adds Target by Name blacklist mode, support for up to 20 Auto Buff slots and general improvements."
 }
