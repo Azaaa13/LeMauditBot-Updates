@@ -1,6 +1,6 @@
 {
-  "version": "v1.6",
-  "url": "https://github.com/Azaaa13/LeMauditBot-Updates/releases/download/v1.6/LeMauditBot.exe",
-  "sha256": "6620329A73367136238B52BDA5C0687ACAD7444E1827B81E7E65B97582F57664",
-  "notes": "LeMaudit Bot v1.6 adds Target by Name blacklist mode, support for up to 20 Auto Buff slots and general improvements."
+  "version": "v1.6.1",
+  "url": "https://github.com/Azaaa13/LeMauditBot-Updates/releases/download/v1.6.1/LeMauditBot_v1.6.1.exe",
+  "sha256": "EB89BA3897DB192370A1C7BC42FD9913FA854B32155D5095C84B8ED8DED2587E",
+  "notes": "Target by Name blacklist, expanded Auto Buff, improved buff sequences and more reliable zero-delay attacks."
 }
